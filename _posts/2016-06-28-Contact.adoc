@@ -1,0 +1,2 @@
+= Contact
+A contact page listing your email address so that your peers can contact you about your work.
