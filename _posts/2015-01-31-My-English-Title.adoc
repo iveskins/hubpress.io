@@ -12,4 +12,4 @@ Hello this is ia test
 :hp-alt-title: My English Title
 
 
-image::Selection_173_vectorized.png
+image::Selection_173_vectorized.png[]
