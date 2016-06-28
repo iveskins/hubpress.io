@@ -1,4 +1,4 @@
-= Blog Title
+= Test
 Hello this is ia test
 
 :hp-image: Selection_173_vectorized.png
