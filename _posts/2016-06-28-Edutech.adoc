@@ -1,0 +1,2 @@
+= Edutech
+An instructional technology page -- although your web-based portfolio itself will serve as evidence of your technical skills, you may add a page to showcase the technology-based projects you have implemented in your classes.
