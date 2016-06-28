@@ -4,7 +4,13 @@
     "repositoryName": "iveskins.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "title": "Ivan Timbrell",
+    "description": "A portfolio and blog",
+    "logo": "http://i.imgur.com/Rm33HOq.png",
+    "cover": "http://i.imgur.com/le8Ff8c.jpg",
+    "postsPerPage": "5"
+  },
   "socialnetwork": {
     "email": "iveskins@gmail.com",
     "twitter": "@iveskins",
