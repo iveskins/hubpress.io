@@ -1,0 +1,19 @@
+= Adding static pages to a hubpress blog.
+:hp-tags: Tech, This blog, Web, Code
+
+I wanted to used this blog to host some static information about me.
+My problem was that I couldn't see a way to add static pages or additional navigation buttons to the pages. +
+To do this I needed to edit 
+the file: *iveskins.github.io/themes/uno-zen/partials/aside.hbs* + 
+I added a new list of links to the file after the existing list.
+There is a list item for each static page I want. I simply use links to blog posts with the relevant titles to make static pages.
+
+
+          <nav class="navigation left">
+            <ul class="links">
+             </li>
+              <li class="nav-about ">
+               <a href="https://iveskins.github.io/2016/06/28/Sample-lessons.html">Sample / サンプル</a>
+             </li>             
+            </ul>
+          </nav>
