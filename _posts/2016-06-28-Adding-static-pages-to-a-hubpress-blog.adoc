@@ -1,5 +1,5 @@
 = Adding static pages to a hubpress blog.
-:hp-tags: Tech, This blog, Web, Code
+:hp-tags: Tech, This blog, Web, Code, HubPress, Blog, 
 
 I wanted to used this blog to host some static information about me.
 My problem was that I couldn't see a way to add static pages or additional navigation buttons to the pages. +
