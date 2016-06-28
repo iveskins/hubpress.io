@@ -4,7 +4,16 @@
     "repositoryName": "iveskins.github.io",
     "branch": "master"
   },
+  "site": {},
+  "socialnetwork": {
+    "email": "iveskins@gmail.com",
+    "twitter": "@iveskins",
+    "linkedin": "https://jp.linkedin.com/in/itimbrell",
+    "facebook": "https://www.facebook.com/drsktottori/",
+    "pinterest": "www.pinterest.com/iveskins",
+    "github": "https://github.com/iveskins"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
