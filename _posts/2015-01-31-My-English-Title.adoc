@@ -1,7 +1,6 @@
 = Blog Title
 Hello this is ia test
 
-= Blog Title
 :hp-image: Selection_173_vectorized.png
 
 :published_at: 2015-01-31
