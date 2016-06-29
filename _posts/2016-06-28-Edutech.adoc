@@ -4,16 +4,16 @@
 Here is some of the things I have been up to recently. +
 I have been asking my students questions using a google form. Then I have been giving them answers with a google sheets plugin called FormMule. I made a nice html/css email template to that takes a students answer and my response and puts them together.
 
-image::http://i.imgur.com/FyBGNz6.jpg[Me, 266, 200,align="center"]
+image::http://i.imgur.com/FyBGNz6.jpg[Me, align="center"]
 
 
 My students asked for exam preparation so I made them a fancy memrise course. I scanned all the vocabulary from our textbook. sent the words to google translate to get voice recordings, the Japanese meaning and the English pronunciation. I used a script to automatically save images for each of the words from google image search.
 I used another set of scripts to upload that all in bulk to Memrise. 
 
-image::http://i.imgur.com/kT9Nkk3.png[Me, 266, 200,align="center"] 
+image::http://i.imgur.com/kT9Nkk3.png[Me,align="center"] 
 
 
 
 For my studies I have to Japanese texts above my level. I integrated a furigana project with google translate. Now I can some Japanese text and make a document with furigana, and translations of chunks for English.
 
-image::http://i.imgur.com/yDWbmjT.jpg[Me, 266, 200,align="center"]
+image::http://i.imgur.com/yDWbmjT.jpg[Me, align="center"]
