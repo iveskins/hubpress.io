@@ -1,2 +1,8 @@
 = Contact
-A contact page listing your email address so that your peers can contact you about your work.
+
+
+image::http://i.imgur.com/PtZFZCW.png[]
+
+iveskins（ａｔ）gmail（ｄｏｔ）com + 
+See the socail media links to the left + 
+左のソーシャルメディアへのリンク
