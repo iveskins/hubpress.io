@@ -4,11 +4,15 @@
 I am still learning as I go along, but there are some themes that seem to make sense for me as a teacher.
 To summarize.
 
-[options="compact"]
 - Holistic 全体的 -- Learning should be connected to life, context, and personality  
 - Empathetic 共感 -- I care(too much maybe?) about the people I am helping
 - Social 社会 -- Learning is a social process. Knowledge is socially constructed and used, so it should be learned socially
 - Independent 独立 -- The most empowered individual is one has learned how to teach themselves.
 - Fun -- Learning shouldn't be a chore. Fun isn't always without learning.   
 - Respect 尊敬 -- I respect my students, and I want them to respect themselves and their fellow learners. 
++ 
+*Some influences:*
 
+http://iteslj.org/Articles/Weschler-UsingL1.html[Uses of Japanese (L1) in the English Classroom:] + 
+http://eflmagazine.com/cooperative-learning/[COOPERATIVE LEARNING] + 
+http://readingfirst.scoe.net/documents/LEASession3.pdf[Teaching is a cultural practice]
