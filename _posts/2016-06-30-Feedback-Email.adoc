@@ -1,0 +1,35 @@
+= Feedback Email
+
+
+As a new teacher I really wanted to get *feedback* from my students about their experience in my class. I also wanted to encourage *independent learning*. I wanted my students to think about their learning.
+At first I made a https://drive.google.com/file/d/0BzP0fO2hFyOuQldJTDRYMlRxbjQ/view?usp=sharing[*Reflection journal*] to hand out in class. _Like this:_
+
+image::http://i.imgur.com/VH7h53w.png[reflection, align="center"]
+
+
+This worksheet took class time for the students to fill in. It also took my time outside of work to read and reply to. It was also difficult to compile the students answers into meaningful data. + 
+Another problem I had as students didn't clearly understand the meaning of the questions. I translated the questions then asked http://lang-8.com[Lang-8] members for help checking my Japanese. +
+  
+To make the students answers easier to work with I decided to make a Google form.
+++++
+<iframe src="https://docs.google.com/forms/d/1LTid68rGkNQCKeWbOitG1uwDJvARxTdqslw84P2WkKI/viewform?embedded=true" width="600" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+++++
+
+The results of this form are stored in a Google spreadsheet. I used a Google sheets plugin called FormMule to send individual feedback to my students containing their answers and my responses. + 
+The email template I used is as follows. FormMule replaces the < <name>> with the students name, with the students first answer, and < <a1>> with my first answer.
+
+
+image::http://storage2.static.itmages.com/i/16/0630/h_1467276744_2029449_1563d4b4c1.png[sheet, align="centre"]
+
+
+
+
+----------------------
+<body style='margin-top:0;padding-top:0;'><table table border='0'   style='background-color: #EDE7F6;'  cellspacing='10'>  <tr >   <td colspan='2'>        <table  border='0' width=100% border='0' cellspacing='0'>          <tr height='30' colspan='2'>            <td style='background-color: #9C27B0;'><h3 style='color:white;'>Reflection 反省 June 15th</h></td>          </tr>           <tr colspan='2' ><td  style='padding:8px;background-color: white; border-top: 8px solid #EA80FC;' width=10%>Hello, <<name>>.Thank you for your hard work writing your answers.I have written some notes below.<p><b>1. Today I learned...  (please be specific) (now i can ...)今日　私は〜を学びました (具体的に記述してください)(...できるようになった、など)</b><br><<q1>><br><i  style='color:#EE5C42;'><<a1>></i></p><p><b>2. What words, phrases, or patterns did you use today? were they new? 今日何の単語やパターンやフレーズを学びましたか？初めて知ったものですか？</b><br><<q2>><br><i  style='color:#EE5C42;'><<a2>></i></p><p><b>3. How and when do you plan to learn them?学習をより効果的にするために、いつどのようにして、あなたは今日学んだことを復習する予定ですか？出来るだけ具体的に書いて下さい。</b><br><<q3>><br><i  style='color:#EE5C42;'><<a3>></i></p><p><b>4. How do you want to show you have learned them?　どれくらい理解出来たかを公平に、かつ正確に評価するにはどのような試験方法が良いと思いますか？</b><br><<q4>><br><i  style='color:#EE5C42;'><<a4>></i></p><p><b>5. Write three sentences using the new words, phrases, or patterns.今日の授業で習った単語やフレーズを使って、３つの文章を書いてください。</b><br><<q5>><br><i  style='color:#EE5C42;'><<a5>></i></p><p><b>5.2 How many sentences did you write?5で文章はいくつ書いた？</b><br><<q6>><br><i  style='color:#EE5C42;'><<a6>></i></p><p><b>6. How did you feel in class today? Why? Did others feel the same?　授業の感想を書いてください。その理由は？他の学生もあなたと同じように感じていると思いますか？</b><br><<q7>><br><i  style='color:#EE5C42;'><<a7>></i></p><p><b>7. How could you use what you learned today in the future? 今日学んだことをこれから先、どのように活かしますか？</b><br><<q8>><br><i  style='color:#EE5C42;'><<a8>></i></p><p><b>8. Do you have any suggestions for the next class (Is there anything that "can be better" or  "is fine the way it is" or " we should skip"?) 何か次の授業のための提案はありますか?（何か、「より良く［改善］できること」や「そのままにしたほうがいいこと」また「ないほうがいいこと」は、ありますか？）</b><br><<q9>><br><i  style='color:#EE5C42;'><<a9>></i></p>        </td>          </tr>        </table>    </td></table></body>
+
+----------------------
+
+===== The end result:
+
+image::http://i.imgur.com/DGZHgJ2.png[reflection, align="center"]
+
