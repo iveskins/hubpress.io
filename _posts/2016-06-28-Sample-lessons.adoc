@@ -5,14 +5,14 @@ Sample annotated lesson plans -- avoid posting links to PDF versions of your fav
 /////
 Work in progress.
 
-===== Games:
+==== Games:
 *Warming up* +
 I like using http://www.mgu.ac.jp/~ic/helgesen/physical/physical_-prehtml.htm[These physical] games collected by *Marc Helgesen* of Miyagi Gakuin Women's College 14 years ago. + 
 specifically, Circle games like *this is for you*, where students have to remember and repeat everything everyone else has said.
 
 
 
-===== Cultural
+==== Cultural
 I love introducing my country to the world.
 
 image::http://i.imgur.com/1qfidla.png[300,400,align="centre"]
