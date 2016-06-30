@@ -3,17 +3,14 @@ here.
 
 
 My https://jp.linkedin.com/in/itimbrell[Linked in page] has all my information. Please add me. + 
-Here is a https://drive.google.com/file/d/0BzP0fO2hFyOuRDVwNDR0cmxBMkE/view?usp=sharing[pdf] version.
-
-
-日本語をお待ちください +
-翻訳中
-
-++++++++++++++++++++++++++
+//Here is a https://drive.google.com/file/d/0BzP0fO2hFyOuRDVwNDR0cmxBMkE/view?usp=sharing[pdf] version.
+++++
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-++++++++++++++++++++++++++
+++++
 
 
-++++++++++++++++++++++++++
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="itimbrell"><a class="LI-simple-link" href='https://jp.linkedin.com/in/itimbrell?trk=profile-badge'>Ivan Timbrell</a></div>
-++++++++++++++++++++++++++
+日本語をお待ちください. 翻訳中 + 
+今のところこれを見てください +
+https://drive.google.com/file/d/0BzP0fO2hFyOuU1FKSDctam5KMEZPQng0b0h5SjY3WGJKM0JJ/view?usp=sharing[日本語 履歴書のダウンロード]
+
+https://drive.google.com/file/d/0BzP0fO2hFyOuTk5yNVNOQ085WUU/view?usp=sharing[Resume download]
