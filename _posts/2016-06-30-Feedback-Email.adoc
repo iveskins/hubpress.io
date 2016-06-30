@@ -31,6 +31,7 @@ image::http://storage2.static.itmages.com/i/16/0630/h_1467276744_2029449_1563d4b
 
 === The end result:
 
-
-image::http://i.imgur.com/DGZHgJ2.png[reflection, align="center"]
++++
+<blockquote class="imgur-embed-pub" lang="en" data-id="DGZHgJ2"><a href="//imgur.com/DGZHgJ2">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
++++
 
