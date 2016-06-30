@@ -29,7 +29,8 @@ image::http://storage2.static.itmages.com/i/16/0630/h_1467276744_2029449_1563d4b
 
 ----------------------
 
-==== The end result:
+=== The end result:
+
 
 image::http://i.imgur.com/DGZHgJ2.png[reflection, align="center"]
 
