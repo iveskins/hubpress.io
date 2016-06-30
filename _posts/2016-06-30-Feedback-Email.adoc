@@ -1,8 +1,10 @@
 = Feedback Email
 
 
-As a new teacher I really wanted to get *feedback* from my students about their experience in my class. I also wanted to encourage *independent learning*. I wanted my students to think about their learning.
-At first I made a https://drive.google.com/file/d/0BzP0fO2hFyOuQldJTDRYMlRxbjQ/view?usp=sharing[*Reflection journal*] to hand out in class. _Like this:_
+As a new teacher of Ebglish at a two year collage I really wanted to get *feedback* from my students about their experience in my class. I also wanted to encourage *independent learning*. I wanted my students to think about their learning. + 
+Looking back on this from *teaching/learning point of view*, I can say it was a lot of work for *little advantage* to the *learning* of my students. Still it was an interesting process that I may be able to use better in the future, or in other contexts.
+
+What follows is a technical review of what I tried.  At first I made a https://drive.google.com/file/d/0BzP0fO2hFyOuQldJTDRYMlRxbjQ/view?usp=sharing[*Reflection journal*] to hand out in class. _Like this:_
 
 image::http://i.imgur.com/VH7h53w.png[reflection, align="center"]
 
