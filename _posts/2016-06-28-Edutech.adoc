@@ -24,7 +24,7 @@ image::http://i.imgur.com/yDWbmjT.jpg[Me, align="center"]
 
 ==== Determiners
 
-I made a script that uses the parts of speech marked by the Stanford parser. The script finds all the determinetrs and changse them into _____ fill in the blank questions.
+I made a script that uses the parts of speech marked by the Stanford parser. The script finds all the determiners and changes them into _____ fill in the blank questions.
 
 ----------------
 London is by far _____ largest city in England and _____ United Kingdom.
