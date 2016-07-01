@@ -1,16 +1,16 @@
 = Edutech
 
 
-Here is some of the things I have been up to recently. +
+Here are some of the things I have been up to recently. +
 
 ==== Email
 
-I have been asking my students questions using a google form. Then I have been giving them answers with a google sheets plugin called FormMule. I made a nice html/css email template to that takes a students answer and my response and puts them together. https://iveskins.github.io/2016/06/30/Feedback-Email.html[See my blog post for details]
+I have been asking my students questions using a google form. Then I have been giving them answers with a google sheets plugin called FormMule. I made a nice html/css email template which takes a students answer and my response and puts them together. https://iveskins.github.io/2016/06/30/Feedback-Email.html[See my blog post for details]
 
 image::http://i.imgur.com/FyBGNz6.jpg[Me, align="center"]
 
 ==== Flashcards
-My students asked for exam preparation so I made them a fancy memrise course. I scanned all the vocabulary from our textbook. sent the words to google translate to get voice recordings, the Japanese meaning and the English pronunciation. I used a script to automatically save images for each of the words from google image search.
+My students asked for exam preparation so I made them a fancy memrise course. I scanned all the vocabulary from our textbook, and sent the words to google translate to get voice recordings, the Japanese meaning and the English pronunciation. I used a script to automatically save images for each of the words from google image search.
 I used another set of scripts to upload that all in bulk to Memrise. 
 
 image::http://i.imgur.com/kT9Nkk3.png[Me,align="center"] 
