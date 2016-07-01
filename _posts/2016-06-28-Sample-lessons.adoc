@@ -1,20 +1,19 @@
 = Sample lessons
 
-/////
-Sample annotated lesson plans -- avoid posting links to PDF versions of your favorite lessons plans. Nobody has time to read through entire documents. Instead, write a short paragraph explaining some of your favorite and most successful classroom activities. Include student feedback if possible, pictures or screenshots, and a link to the lesson plan itself at the end of your description.
-/////
-Work in progress.
-
+==== Work in progress.
 ==== Games:
 *Warming up* +
-I like using http://www.mgu.ac.jp/~ic/helgesen/physical/physical_-prehtml.htm[These physical] games collected by *Marc Helgesen* of Miyagi Gakuin Women's College 14 years ago. + 
-specifically, Circle games like *this is for you*, where students have to remember and repeat everything everyone else has said. +
+I like using http://www.mgu.ac.jp/~ic/helgesen/physical/physical_-prehtml.htm[These physical] games (collected by *Marc Helgesen* of Miyagi Gakuin Women's College 14 years ago.) + 
+specifically: + 
+Circle games like *this is for you*, where students have to remember and repeat everything everyone else has said. +
 
 === Cultural
 
 I love introducing my country to the world.
-
 image::http://i.imgur.com/1qfidla.png[300,400,align="centre"]
 
 image::http://i.imgur.com/FZ3cw0s.jpg?1[300,400,align="centre"]
 
+/////
+Sample annotated lesson plans -- avoid posting links to PDF versions of your favorite lessons plans. Nobody has time to read through entire documents. Instead, write a short paragraph explaining some of your favorite and most successful classroom activities. Include student feedback if possible, pictures or screenshots, and a link to the lesson plan itself at the end of your description.
+/////
