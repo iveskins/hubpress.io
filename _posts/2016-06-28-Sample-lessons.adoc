@@ -1,7 +1,7 @@
 = Sample lessons
 
-==== Work in progress.
-==== Games:
+=== Work in progress.
+=== Games:
 *Warming up* +
 I like using http://www.mgu.ac.jp/~ic/helgesen/physical/physical_-prehtml.htm[These physical] games (collected by *Marc Helgesen* of Miyagi Gakuin Women's College 14 years ago.) + 
 E.g  +
