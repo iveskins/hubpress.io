@@ -10,6 +10,7 @@ Circle games like *this is for you*, where students have to remember and repeat 
 === Cultural
 
 I love introducing my country to the world.
+
 image::http://i.imgur.com/1qfidla.png[300,400,align="centre"]
 
 image::http://i.imgur.com/FZ3cw0s.jpg?1[300,400,align="centre"]
