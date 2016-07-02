@@ -1,0 +1,8 @@
+= Smart Phone repair
+
+Repairing a smart phone is not so hard as it might seem. So long as you don't care for warranty and do very through research into parts and steps. +
+So far I have replaced the screen and the USB plug of my One plus one.
+
+image::http://i.imgur.com/fDgGDZal.jpg[]
+
+image::http://i.imgur.com/PtyEpNQl.jpg[]
