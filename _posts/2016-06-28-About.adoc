@@ -9,10 +9,11 @@ My name is *Ivan Timbrell*. I was raised on a small farm in the center of *New Z
 
 Two of the things I most love about teaching English overseas are,  
 first, *making new friends* and building a sense of *community* and meaningful relationships with many people 
-and, second, being part of an *exchange of cultures* and ideas in all their forms, helping others to learn and *learning* a lot about myself. 
-
+and, second, being part of an *exchange of cultures* and ideas in all their forms, helping others to learn and *learning* a lot about myself. + 
+日本語で日常会話ができます +
 If you would like to contact me, I would be happy to hear from you. Please email me:
 iveskins（ａｔ）gmail（ｄｏｔ）com
+
 
 *More about my teaching:* +
 link:https://iveskins.github.io/2016/06/28/My-teaching-philosophy.html[*Teaching Philosophy / 教育哲学*] +
