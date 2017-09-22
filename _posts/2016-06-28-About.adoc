@@ -4,19 +4,29 @@
 
 image::http://i.imgur.com/D2Idvee.jpg[Me, 266, 200,align="center"]
 
-My name is *Ivan Timbrell*. I was raised on a small farm in the center of *New Zealand*. Our cottage was full of books, and my family was always reading. From a young age I was very *excited by language* and its power to create different worlds. I was also lucky enough to study *Te Reo Maori*, the native language of New Zealand. As a teenager I became fascinated with Japanese language and culture. I enrolled in 
-*University* to study *Japanese language and Asian studies*, but I switched to *Media Studies* later. I gave up on my language studies at university, but I didn't give up on my love of languages, and my goal to speak more than one language. In *2014* I moved to *Tottori Japan* to teach as an *ALT* on the *JET program*. I am currently working and studying towards a *masters degree in education* at Tottori University in Japan. 
+My name is *Ivan Timbrell*. 
+//I was raised on a small farm in the center of *New Zealand*. 
+//Our cottage was full of books, and my family was always reading. 
+//From a young age I was very *excited by language* and its power to create different worlds. 
+//I was also lucky enough to study *Te Reo Maori*, the native language of New Zealand. 
+//As a teenager I became fascinated with Japanese language and culture. 
+//I enrolled in *University* to study *Japanese language and Asian studies*, but I switched to *Media Studies* later. 
+//I gave up on my language studies at university, but I didn't give up on my love of languages, and my goal to speak more than one language. 
+//In *2014* I moved to *Tottori Japan* to teach as an *ALT* on the *JET program*. I am currently working and studying towards a *masters degree in education* at Tottori University in Japan. 
+
+At *University* studied *Japanese language and Asian studies*, and switched to *Media Studies* later. 
+In *2014* I moved to *Tottori Japan* to teach as an *ALT* on the *JET program* and to try to learn Japanese. I am currently working and studying towards a *masters degree in education* at Tottori University in Japan. 
 
 Two of the things I most love about teaching English overseas are,  
 first, *making new friends* and building a sense of *community* and meaningful relationships with many people 
 and, second, being part of an *exchange of cultures* and ideas in all their forms, helping others to learn and *learning* a lot about myself. + 
-日本語で日常会話ができます +
 If you would like to contact me, I would be happy to hear from you. Please email me:
 iveskins（ａｔ）gmail（ｄｏｔ）com
 
 
-*More about my teaching:* +
-link:https://iveskins.github.io/2016/06/28/My-teaching-philosophy.html[*Teaching Philosophy / 教育哲学*] +
+//*More about my teaching:* +
+*More about me:* +
+//link:https://iveskins.github.io/2016/06/28/My-teaching-philosophy.html[*Teaching Philosophy / 教育哲学*] +
 link:https://iveskins.github.io/2016/06/28/Resume.html[*Résumé / 履歴書*] +
 
 
