@@ -2,7 +2,7 @@
 :hp-tags: About, Ivan,
 
 
-image::http://i.imgur.com/AQ86or4.jpg.jpg[Me, 266, 200,align="center"]
+image::http://i.imgur.com/AQ86or4.jpg.jpg[Me, 200, 200,align="center"]
 
 My name is *Ivan Timbrell*. 
 //I am *New Zealand*. 
