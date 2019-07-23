@@ -8,7 +8,8 @@ My https://jp.linkedin.com/in/itimbrell[Linked in page] has all my information. 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 ++++
 
-[2016]
+_2016_
+
 日本語をお待ちください. 翻訳中 + 
 今のところこれを見てください +
 https://drive.google.com/open?id=0BzP0fO2hFyOuU2pOeGtlX0dXTWs[日本語 履歴書のダウンロード]
