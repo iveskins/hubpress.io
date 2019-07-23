@@ -2,10 +2,10 @@
 :hp-tags: About, Ivan,
 
 
-image::http://i.imgur.com/D2Idvee.jpg[Me, 266, 200,align="center"]
+image::http://i.imgur.com/AQ86or4.jpg.jpg[Me, 266, 200,align="center"]
 
 My name is *Ivan Timbrell*. 
-//I was raised on a small farm in the center of *New Zealand*. 
+//I am *New Zealand*. 
 //Our cottage was full of books, and my family was always reading. 
 //From a young age I was very *excited by language* and its power to create different worlds. 
 //I was also lucky enough to study *Te Reo Maori*, the native language of New Zealand. 
@@ -14,12 +14,14 @@ My name is *Ivan Timbrell*.
 //I gave up on my language studies at university, but I didn't give up on my love of languages, and my goal to speak more than one language. 
 //In *2014* I moved to *Tottori Japan* to teach as an *ALT* on the *JET program*. I am currently working and studying towards a *masters degree in education* at Tottori University in Japan. 
 
-At *University* studied *Japanese language and Asian studies*, and switched to *Media Studies* later. 
-In *2014* I moved to *Tottori Japan* to teach as an *ALT* on the *JET program* and to try to learn Japanese. I am currently working and studying towards a *masters degree in education* at Tottori University in Japan. 
+At *University* studied *Japanese language and Asian studies*, and *Media Studies*. 
+In *2014* I moved to *Tottori Japan* to teach as an *ALT* on the *JET program*. Later I recieved a *masters degree in education* from the graduate school of Reigonal Sciences at Tottori University. 
 
-Two of the things I most love about teaching English overseas are,  
-first, *making new friends* and building a sense of *community* and meaningful relationships with many people 
-and, second, being part of an *exchange of cultures* and ideas in all their forms, helping others to learn and *learning* a lot about myself. + 
+//In *2014* I moved to *Tottori Japan* to teach as an *ALT* on the *JET program* and to try to learn Japanese. I am currently working and studying towards a *masters degree in education* at Tottori University in Japan. 
+
+//Two of the things I most love about teaching English overseas are,  
+//first, *making new friends* and building a sense of *community* and meaningful relationships with many people 
+//and, second, being part of an *exchange of cultures* and ideas in all their forms, helping others to learn and *learning* a lot about myself. + 
 If you would like to contact me, I would be happy to hear from you. Please email me:
 iveskins（ａｔ）gmail（ｄｏｔ）com
 
